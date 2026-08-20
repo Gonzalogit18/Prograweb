@@ -1,0 +1,36 @@
+//html es maquetadp
+//css es estilo
+//js es dinamismo, accion
+
+//html no es un lenguaje de progra., es un lenguaje de computacion, pq no puede hacerse la logica de la compu de no se que de la union sovietica para ecriptar mensajes
+//todo elnavegador usa html para renderizar
+
+//el primer archivo es index.html SI O SI, todo en minuscula
+
+//emmet, usarlo!!!!, te facilita la vida, es lo que te automcompleta cosas como las etiquetas de html
+//poner html:5, te pone directamente todo lo que necesitas en un archivo html al inicio
+
+//<!-- Esto es un comentario en vs code-->
+
+//el parcial va a ser en codepn.io, practiar ahi!!
+
+ctrl + f5 es para refrescar la pagina
+
+127.0.0.1 es el puerto que se llama home, donde funciona el live server que levanto con mi html
+
+dentro del head se escriben las  instrucciones para el navegador, no se deberian de poner strings ni nada, por ejemplo el titulo y todo el conetnido deberia de ir dentro del <body>
+
+html semantico es crear tus propias etiquetas, se puede no es recomendable
+
+header main y footer son las organizacion basica para el body
+
+click derecho formatear documento y te lo ordena
+
+ley de jakobs, cuanto mas se parezcan las paginas a las paginas que esta acostrumbrada la gente, menos les va a costar enetenderlas y mejor
+
+SEO: search optimization engine, es optimizacion para aparecer primero en los search engines
+una de las reglas de SEO es que solo haya un h1
+
+para pipner una pagina en produccion dspa hay que indexarla con algo que dijo de robots, algo asi, que es si o si para subir una pagina creo, mas alla de agregarle un dominio
+
+Escribir lorem y pones enter y emmet te pone un texto enrome que parece un texto con sentido pero no es nada
