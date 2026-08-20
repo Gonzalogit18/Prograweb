@@ -34,3 +34,41 @@ una de las reglas de SEO es que solo haya un h1
 para pipner una pagina en produccion dspa hay que indexarla con algo que dijo de robots, algo asi, que es si o si para subir una pagina creo, mas alla de agregarle un dominio
 
 Escribir lorem y pones enter y emmet te pone un texto enrome que parece un texto con sentido pero no es nada
+
+img enter y emmet te pone lo de img y alt
+
+google premia si escribis el alt, mas SEO
+
+dos tipos de imagen, interna y externa, interna es poner imagen.jpg como archivo y listo, no dependen de terceros
+
+externa es que esta en otro lado, dependes de terceros pero no te ocupa espacio
+
+con ./ ves los nombres de los archivos para escribir mas rapido
+
+placehold.co es una pagina con imagenes basicas para poner como ejemplo en la pagina
+
+poner el auto save en vs code en file
+
+viñetas
+<ul type="" start=""> ->bullets, pero puede ser circulos, cuadrados, nan, etc. Start no escuche que es, buscarlo
+<ol type=""> ->es con numeros, depende de que haya otros para seguir sumando numeros, tenes numeros i en minuscula, romanos, etc depende que le pongas adentro del type
+adentro de estos si o si pones <li>dwdffew </li>
+
+<menu>
+<navbar>
+<marque>   -> es para el texto que se mueve por la pagina, tmb podes hacer que rebote etc
+
+Paginas de documentacion de html:
+mdn
+w3schools
+
+Hipervinculos es con <a>
+<a href="">
+Hay links externos y internos como pasaba con las imagenes
+<a href="#footer">
+(hashtag para ir a un lugar interno pero en ese lugar le tenes que poner un id="" para que esa parte de la pagina tenga su codigo queluego podes "llamar" con el href de a, por ejemplo en el header podes poner <header id="footer"> y luego mas abajo poner <a href ="#footer"> y eso te lleva al header)
+
+
+
+existen dos tipos de etiqueta, las de block y las inline, las de block ocupan solo hasta el final de la palabra por ejemplo pero la inline te ocupa todo el espacio horizontal de la pagina
+a es etiqueta tipo bloque
