@@ -70,5 +70,41 @@ Hay links externos y internos como pasaba con las imagenes
 
 
 
-existen dos tipos de etiqueta, las de block y las inline, las de block ocupan solo hasta el final de la palabra por ejemplo pero la inline te ocupa todo el espacio horizontal de la pagina
-a es etiqueta tipo bloque
+existen dos tipos de etiqueta, las de block y las inline, las de inline ocupan solo hasta el final de la palabra por ejemplo pero la block te ocupa todo el espacio horizontal de la pagina
+
+div es para marcar una seccion, hacer partes dentro de la pagina web
+div es tipo blocken la prox clase aprendemos a hacer los div uno al lado del otro
+
+a los div les podes poner nombres con id
+por ejemplo: <div id="seccion">
+
+formularios es form:get o form:post en emmet
+
+pero es <form action="" method="post"> por ejemplo
+
+inputs para que escriba la persona
+<input type="" name="">
+
+hay muchos inputs
+input:radio
+input:email
+input:checkbox
+etc hay muchos
+
+etiqueta <table>
+dentro de eso:
+<tr> table row
+y asi mas
+
+Enlazar html con js
+Se puede poner de dos formas:
+-Por fuera le voy poner <script> Aca escribir js </script>
+-O podes poner <script scr="nombre.js"></script>
+
+enetender lo de addEventListener, querySelector, etc.... es lo MAS IMPORTANTE
+
+
+
+En el parcial vamos a tener que hacer CRUD de un carrito con una pagina web, CREATE, READ, UPDATE, DELETE
+
+Que el carrito te calcule obviamente tema precios de todo cuando sacas o agregas al carrito
