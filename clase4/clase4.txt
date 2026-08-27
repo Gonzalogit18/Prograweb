@@ -1,0 +1,39 @@
+1- Primera forma: CSS in lines es ponerle el css directo al html. No se deberia de hacer asi
+2- <style> aca tmb podes poner css y aca si es como se deberia de hacer. </style>
+<style>
+body{background-color: blue;}
+</style> --> esto te pone el body en azul
+
+es: selector {propiedad: valor:
+propiedad: valor;}
+
+para llamar a un id pongo el # (obvio tenes que tener el # en alguna parte del html) por ejemplo #titulo...
+
+class es para ponerle el mismo estilo a varias cosas.
+por ejemplo si a varos h (h1, h2, etc)queres ponerles a todos cierto estilo le pones class="subtitulos" popr ejemplo y subtitulos es cierto estilo...
+
+id (#) deberia de tener unico, ahora class deberia de ser para mas de uno
+
+las clases pueden tenr varios elementos y los elementos pueden tener varias clases
+
+3- hacer un archivo con css solo, lo vinculas con link, con emmet seria link: y asi
+El archivo base se llama style.css
+Es <link> 
+
+El archivo se lee de arriba para bajo como una cascada entoences si en el archivo html tenes que body es azul arriba y abajo tenes que es verde, entonces cuando termine va a terminar siendo verde pq esta abajo.
+Ahora... El inline le gana a todos, el que este en inline es el que se va a aplicar
+Lo mismo con el id (#), es mas importante que la clase entoences se hace primero...
+
+Nosotros vamos a trabajar separado, con un cdd aparte
+
+w3e schools son las clases gratis de html, css etc
+
+En color picker en google elejis el codigo de los colores
+
+
+El parcial es hacer un CRUD con js html y css. Por ejemplo hacer un ecommerce que te perimta agrear al carrito, modificarlo y borrar lo del carrito
+los numeros de hexadecimal en el css van del 0 al 255
+HEX es #000000, son dos numeros para el rojo, dos para el verde y dos para el azul
+Hay colores que estan nombrados, por ejemplo el red es #FF0000 #00ff00, #0000ff
+
+Manejo de los elementos. Para CSS todo es una caja, estas tienen elementos, 4 elementos. Content, Padding, Border y Margin
