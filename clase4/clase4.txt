@@ -37,3 +37,21 @@ HEX es #000000, son dos numeros para el rojo, dos para el verde y dos para el az
 Hay colores que estan nombrados, por ejemplo el red es #FF0000 #00ff00, #0000ff
 
 Manejo de los elementos. Para CSS todo es una caja, estas tienen elementos, 4 elementos. Content, Padding, Border y Margin
+
+* es un all, selecciona todos
+
+Unidades de medida en css, absolutas y relativas.
+Las aboslutas son:
+px: pixels (la que mas se usa)
+
+Unidades relativas:
+em
+rem
+vw (esta y la de abajo son las que mas vamos a usar) (son en %, es para crear paginas responsive) (son viewport width y viewport height)(100 vw por ejemplo ocupa todo el ancho de la pagina)
+los elementos base los usas con vw pq queres que se juste a la pantalla y los que estan dentro vas a usar el % qeu esta mas abajo pq queremos que se ajusten a un % del tamaño del base no de toda la pantalla
+vh
+vmin
+vmax
+%
+fr
+ch
