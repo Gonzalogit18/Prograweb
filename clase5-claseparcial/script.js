@@ -8,3 +8,4 @@
 //con este escribis en muchas filas al mismo tiempo: alt+shift ensu compu no se como sera aca
 //<br> poner el salto de lineas
 //ponerle la linita que se mueve horizontalmente con le tema del descuento
+//podrias eciribir todoen un mismo renglon pero te quedaria un choclo horrible, es mejor modularizarlo
